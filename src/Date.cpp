@@ -21,6 +21,7 @@ Date::Date()
 	year=2000;
 }
 
+
 int Date::checkday(int testday) const
 {
 	static const int dayspermonth[13]={0,31,28,31,30,31,30,31,31,30,31,30,31};

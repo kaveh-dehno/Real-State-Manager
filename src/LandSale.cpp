@@ -9,6 +9,7 @@
 
 using namespace std;
 
+
 LandSale::LandSale(string street, string city, Customer owner, RealEstateAgent whoisrenting, Date rentstart, double whicharea, int cost)
 	:Property(street, city, owner, whoisrenting, rentstart)
 {

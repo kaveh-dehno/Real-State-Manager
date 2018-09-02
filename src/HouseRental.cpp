@@ -10,6 +10,7 @@
 using namespace std;
 
 
+
 HouseRental::HouseRental(string street, string city, Customer owner, RealEstateAgent whoisrenting , Date rentstart, int year, int room, int rent)
 	:Property( street, city, owner, whoisrenting, rentstart)
 {

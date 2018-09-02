@@ -185,6 +185,8 @@ void realestateManager::findPropertiesCity( string city)
 }
 
 
+
+
 void realestateManager::findPropertiesAgent(RealEstateAgent *name)
 {
 	int count = 0;

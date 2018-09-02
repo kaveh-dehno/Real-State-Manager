@@ -10,6 +10,7 @@
 #include"Property.h"
 #include "RealEstateAgent.h"
 
+
 using namespace std;
 
 class HouseSale: public Property

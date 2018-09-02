@@ -29,6 +29,7 @@ Person::Person()
 	address="";
 }
 
+
 void Person::getname()
 {
 	cout << name;

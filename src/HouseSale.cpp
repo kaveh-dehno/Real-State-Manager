@@ -7,6 +7,7 @@
 #include <iostream>
 #include "HouseSale.h"
 
+
 HouseSale::HouseSale(string street, string city, Customer owner,
 		RealEstateAgent whoisrenting, Date rentstart, int age, int rooms, int money)
 

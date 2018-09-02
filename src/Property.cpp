@@ -18,6 +18,7 @@ Property::Property(string street, string city, Customer owner, RealEstateAgent w
 
 }
 
+
 Property::Property()
 	:landlord(),agent(),listingdate(),customer()
 {

@@ -10,6 +10,7 @@
 #include <string>
 #include "Property.h"
 
+
 using namespace std;
 
 class LandSale: public Property

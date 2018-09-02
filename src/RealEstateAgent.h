@@ -23,6 +23,7 @@ class RealEstateAgent : public Person
         ~ RealEstateAgent( );
        virtual void print( );
 
+
   private:
      Date employmentdate;
      int employeeid;

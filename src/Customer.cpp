@@ -23,6 +23,7 @@ Customer::Customer()
 	socialinsurancenumber="";
 }
 
+
 Customer::~Customer()
 {
 
